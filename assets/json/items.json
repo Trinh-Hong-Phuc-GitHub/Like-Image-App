@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Image 1",
+    "image": "https://picsum.photos/200/300?random=1"
+  },
+  {
+    "id": "2",
+    "name": "Image 2",
+    "image": "https://picsum.photos/200/300?random=2"
+  },
+  {
+    "id": "3",
+    "name": "Image 3",
+    "image": "https://picsum.photos/200/300?random=3"
+  }
+]
